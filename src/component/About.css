@@ -1,0 +1,18 @@
+.title{
+    text-align: center;
+}
+.about-box{
+    display: flex;
+    flex-direction: row;
+    margin-left: 195px;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+    border: 1px solid black;
+    width: 70%;
+    height: 60%;
+}
+.about-text{
+    width: 50%;
+    text-align: left;
+}
